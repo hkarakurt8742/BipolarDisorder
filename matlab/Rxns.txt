@@ -1,0 +1,631 @@
+Var1	Var2	Var3
+n_R1	R1	Glycolysis
+n_R2	R2	Glycolysis
+n_R3	R3	Glycolysis
+n_R4	R4	Glycolysis
+n_R5	R5	Glycolysis
+n_R6	R6	Glycolysis
+n_R7	R7	Glycolysis
+n_R8	R8	Glycolysis
+n_R9	R9	Glycolysis
+n_R10	R10	Glycolysis
+n_R11	R11	Glycolysis
+n_R12	R12	Glycolysis
+n_R13	R13	Glycolysis
+n_R14	R14	Glycolysis
+n_R15	R15	Glycolysis
+n_R16	R16	Glycolysis
+n_R17	R17	Pentose Phosphate Pathway
+n_R18	R18	Pentose Phosphate Pathway
+n_R19	R19	Pentose Phosphate Pathway
+n_R20	R20	Pentose Phosphate Pathway
+n_R21	R21	Pentose Phosphate Pathway
+n_R22	R22	Pentose Phosphate Pathway
+n_R23	R23	Pentose Phosphate Pathway
+n_R24	R24	Pentose Phosphate Pathway
+n_R25	R25	TCA Cycle
+n_R26	R26	TCA Cycle
+n_R27	R27	TCA Cycle
+n_R28	R28	TCA Cycle
+n_R29	R29	TCA Cycle
+n_R30	R30	TCA Cycle
+n_R31	R31	TCA Cycle
+n_R32	R32	TCA Cycle
+n_R33	R33	TCA Cycle
+n_R34	R34	TCA Cycle
+n_R35	R35	TCA Cycle
+n_R36	R36	TCA Cycle
+n_R37	R37	TCA Cycle
+n_R38	R38	TCA Cycle
+n_R39	R39	TCA Cycle
+n_R40	R40	TCA Cycle
+n_R41	R41	Oxidative Phosphorylation and ATPase
+n_R42	R42	Oxidative Phosphorylation and ATPase
+n_R43	R43	Oxidative Phosphorylation and ATPase
+n_R44	R44	Oxidative Phosphorylation and ATPase
+n_R45	R45	Oxidative Phosphorylation and ATPase
+n_R46	R46	Glycolysis
+n_R47	R47	Glycolysis
+n_R48	R48	Glycolysis
+n_R49	R49	Glycolysis
+n_R50	R50	Glycolysis
+n_R51	R51	Glycolysis
+n_R52	R52	Glycolysis
+n_R53	R53	Glycolysis
+n_R54	R54	Glycolysis
+n_R55	R55	Glycolysis
+n_R56	R56	Glycolysis
+n_R57	R57	Glycolysis
+n_R58	R58	Glycolysis
+n_R59	R59	Glycolysis
+n_R60	R60	Glycolysis
+n_R61	R61	Pentose Phosphate Pathway
+n_R62	R62	Pentose Phosphate Pathway
+n_R63	R63	Pentose Phosphate Pathway
+n_R64	R64	Pentose Phosphate Pathway
+n_R65	R65	Pentose Phosphate Pathway
+n_R66	R66	Pentose Phosphate Pathway
+n_R67	R67	Pentose Phosphate Pathway
+n_R68	R68	Pentose Phosphate Pathway
+n_R69	R69	TCA Cycle
+n_R70	R70	TCA Cycle
+n_R71	R71	TCA Cycle
+n_R72	R72	TCA Cycle
+n_R73	R73	TCA Cycle
+n_R74	R74	TCA Cycle
+n_R75	R75	TCA Cycle
+n_R76	R76	TCA Cycle
+n_R77	R77	TCA Cycle
+n_R78	R78	TCA Cycle
+n_R79	R79	TCA Cycle
+n_R80	R80	TCA Cycle
+n_R81	R81	TCA Cycle
+n_R82	R82	TCA Cycle
+n_R83	R83	TCA Cycle
+n_R84	R84	Oxidative Phosphorylation and ATPase
+n_R85	R85	Oxidative Phosphorylation and ATPase
+n_R86	R86	Oxidative Phosphorylation and ATPase
+n_R87	R87	Oxidative Phosphorylation and ATPase
+n_R88	R88	Oxidative Phosphorylation and ATPase
+n_R89	R89	Glutamate - Glutamine Cycle
+n_R90	R90	Glutamate - Glutamine Cycle
+n_R91	R91	Glutamate - Glutamine Cycle
+n_R92	R92	Glutamate - Glutamine Cycle
+n_R93	R93	Glutamate - Glutamine Cycle
+n_R94	R94	Glutamate - Glutamine Cycle
+n_R95	R95	Glutamate - Glutamine Cycle
+n_R96	R96	Glutamate - Glutamine Cycle
+n_R97	R97	GABA Cycle
+n_R98	R98	GABA Cycle
+n_R99	R99	GABA Cycle
+n_R100	R100	GABA Cycle
+n_R101	R101	GABA Cycle
+n_R102	R102	GABA Cycle
+n_R103	R103	Aspartate Metabolism
+n_R104	R104	Aspartate Metabolism
+n_R105	R105	Aspartate Metabolism
+n_R106	R106	Asparagine Metabolism
+n_R107	R107	Histamine Metabolism
+n_R108	R108	Histamine Metabolism
+n_R109	R109	Alanine Metabolism
+n_R110	R110	Alanine Metabolism
+n_R111	R111	Alanine Metabolism
+n_R112	R112	Glycine-Serine Metabolism
+n_R113	R113	Glycine-Serine Metabolism
+n_R114	R114	Glycine-Serine Metabolism
+n_R115	R115	Glycine-Serine Metabolism
+n_R116	R116	Glycine-Serine Metabolism
+n_R117	R117	Glycine-Serine Metabolism
+n_R118	R118	Glycine-Serine Metabolism
+n_R119	R119	Glycine-Serine Metabolism
+n_R120	R120	Glycine-Serine Metabolism
+n_R121	R121	Leucine Metabolism
+n_R122	R122	Leucine Metabolism
+n_R123	R123	Leucine Metabolism
+n_R124	R124	Leucine Metabolism
+n_R125	R125	Leucine Metabolism
+n_R126	R126	Leucine Metabolism
+n_R127	R127	Leucine Metabolism @  Ketone Body Metabolism
+n_R128	R128	Leucine Metabolism @  Ketone Body Metabolism
+n_R129	R129	Leucine Metabolism
+n_R130	R130	Leucine Metabolism
+n_R131	R131	Leucine Metabolism
+n_R132	R132	Valine Metabolism
+n_R133	R133	Valine Metabolism
+n_R134	R134	Valine Metabolism
+n_R135	R135	Valine Metabolism
+n_R136	R136	Valine Metabolism
+n_R137	R137	Valine Metabolism
+n_R138	R138	Valine Metabolism
+n_R139	R139	Valine Metabolism @  Isoleucine Metabolism
+n_R140	R140	Valine Metabolism @  Isoleucine Metabolism
+n_R141	R141	Valine Metabolism @  Isoleucine Metabolism
+n_R142	R142	Valine Metabolism
+n_R143	R143	Valine Metabolism
+n_R144	R144	Valine Metabolism
+n_R145	R145	Isoleucine Metabolism
+n_R146	R146	Isoleucine Metabolism
+n_R147	R147	Isoleucine Metabolism
+n_R148	R148	Isoleucine Metabolism
+n_R149	R149	Isoleucine Metabolism
+n_R150	R150	Isoleucine Metabolism
+n_R151	R151	Isoleucine Metabolism
+n_R152	R152	Isoleucine Metabolism
+n_R153	R153	Isoleucine Metabolism
+n_R154	R154	Lysine Metabolism
+n_R155	R155	Lysine Metabolism
+n_R156	R156	Lysine Metabolism
+n_R157	R157	Lysine Metabolism
+n_R158	R158	Lysine Metabolism
+n_R159	R159	Lysine Metabolism
+n_R160	R160	Lysine Metabolism
+n_R161	R161	Lysine Metabolism
+n_R162	R162	Lysine Metabolism
+n_R163	R163	Lysine Metabolism
+n_R164	R164	Lysine Metabolism @  Ketone Body Metabolism
+n_R165	R165	Phenylalanine-Tyrosine Metabolism
+n_R166	R166	Phenylalanine-Tyrosine Metabolism
+n_R167	R167	Phenylalanine-Tyrosine Metabolism
+n_R168	R168	Phenylalanine-Tyrosine Metabolism
+n_R169	R169	Phenylalanine-Tyrosine Metabolism
+n_R170	R170	Phenylalanine-Tyrosine Metabolism
+n_R171	R171	Phenylalanine-Tyrosine Metabolism
+n_R172	R172	Phenylalanine-Tyrosine Metabolism
+n_R173	R173	Phenylalanine-Tyrosine Metabolism
+n_R174	R174	Tryptophan Metabolism
+n_R175	R175	Tryptophan Metabolism
+n_R176	R176	Tryptophan Metabolism
+n_R177	R177	Tryptophan Metabolism
+n_R178	R178	Acetylcholine Metabolism
+n_R179	R179	Proline metabolism
+n_R180	R180	Proline metabolism
+n_R181	R181	Methionine Metabolism
+n_R182	R182	Methionine Metabolism
+n_R183	R183	Methionine Metabolism
+n_R184	R184	Methionine Metabolism
+n_R185	R185	Methionine Metabolism
+n_R186	R186	Methionine Metabolism
+n_R187	R187	Methionine Metabolism
+n_R188	R188	Methionine Metabolism
+n_R189	R189	Methionine Metabolism
+n_R190	R190	Methionine Metabolism
+n_R191	R191	Methionine Metabolism
+n_R192	R192	Methionine Metabolism
+n_R193	R193	Methionine Metabolism
+n_R194	R194	Methionine Metabolism
+n_R195	R195	Methionine Metabolism
+n_R196	R196	Threonine Metabolism
+n_R197	R197	Threonine Metabolism
+n_R198	R198	Threonine Metabolism
+n_R199	R199	Threonine Metabolism
+n_R200	R200	Threonine Metabolism
+n_R201	R201	Threonine Metabolism
+n_R202	R202	Cholesterol Synthesis
+n_R203	R203	Cholesterol Synthesis
+n_R204	R204	Cholesterol Synthesis
+n_R205	R205	Cholesterol Synthesis
+n_R206	R206	Cholesterol Synthesis
+n_R207	R207	Cholesterol Synthesis
+n_R208	R208	Cholesterol Synthesis
+n_R209	R209	Cholesterol Synthesis
+n_R210	R210	Cholesterol Synthesis
+n_R211	R211	Cholesterol Synthesis
+n_R212	R212	Cholesterol Synthesis
+n_R213	R213	Cholesterol Synthesis
+n_R214	R214	Cholesterol Synthesis
+n_R215	R215	Cholesterol Synthesis
+n_R216	R216	Cholesterol Synthesis
+n_R217	R217	Cholesterol Synthesis
+n_R218	R218	Cholesterol Synthesis
+n_R219	R219	Cholesterol Synthesis
+n_R220	R220	Cholesterol Synthesis
+n_R221	R221	Cholesterol Synthesis
+n_R222	R222	Cholesterol Synthesis
+n_R223	R223	Cholesterol Synthesis
+n_R224	R224	Cholesterol Synthesis
+n_R225	R225	Cholesterol Synthesis
+n_R226	R226	Cholesterol Synthesis
+n_R227	R227	Cholesterol Synthesis
+n_R228	R228	Cholesterol Synthesis
+n_R229	R229	Cholesterol Synthesis
+n_R230	R230	Cholesterol Synthesis
+n_R231	R231	Cholesterol Synthesis
+n_R232	R232	Cholesterol Synthesis
+n_R233	R233	Cholesterol Synthesis
+n_R234	R234	Cholesterol Synthesis
+n_R235	R235	Cholesterol Synthesis
+n_R236	R236	Cholesterol Synthesis
+n_R237	R237	Cholesterol Synthesis
+n_R238	R238	Cholesterol Synthesis
+n_R239	R239	Cholesterol Synthesis
+n_R240	R240	Cholesterol Synthesis
+n_R241	R241	Cholesterol Synthesis
+n_R242	R242	Cholesterol Synthesis
+n_R243	R243	Cholesterol Synthesis
+n_R244	R244	Cholesterol Synthesis
+n_R245	R245	Cholesterol Synthesis
+n_R246	R246	Cholesterol Synthesis
+n_R247	R247	Cholesterol Synthesis
+n_R248	R248	Cholesterol Synthesis
+n_R249	R249	Cholesterol Synthesis
+n_R250	R250	Cholesterol Synthesis
+n_R251	R251	Cholesterol Synthesis
+n_R252	R252	Cholesterol Synthesis
+n_R253	R253	Fatty Acid Synthesis
+n_R254	R254	Fatty Acid Synthesis
+n_R255	R255	Fatty Acid Synthesis
+n_R256	R256	Fatty Acid Synthesis
+n_R257	R257	Fatty Acid Synthesis
+n_R258	R258	Fatty Acid Synthesis
+n_R259	R259	Fatty Acid Synthesis
+n_R260	R260	Fatty Acid Synthesis
+n_R261	R261	Fatty Acid Synthesis
+n_R262	R262	Fatty Acid Synthesis
+n_R263	R263	Fatty Acid Synthesis
+n_R264	R264	Fatty Acid Synthesis
+n_R265	R265	Fatty Acid Synthesis
+n_R266	R266	Fatty Acid Synthesis
+n_R267	R267	Fatty Acid Synthesis
+n_R268	R268	Fatty Acid Synthesis
+n_R269	R269	Fatty Acid Synthesis
+n_R270	R270	Fatty Acid Synthesis
+n_R271	R271	Fatty Acid Synthesis
+n_R272	R272	Fatty Acid Synthesis
+n_R273	R273	Fatty Acid Synthesis
+n_R274	R274	Fatty Acid Synthesis
+n_R275	R275	Fatty Acid Synthesis
+n_R276	R276	Fatty Acid Synthesis
+n_R277	R277	Fatty Acid Synthesis
+n_R278	R278	Fatty Acid Synthesis
+n_R279	R279	Fatty Acid Synthesis
+n_R280	R280	Fatty Acid Synthesis
+n_R281	R281	Fatty Acid Synthesis
+n_R282	R282	Fatty Acid Synthesis
+n_R283	R283	Fatty Acid Synthesis
+n_R284	R284	Fatty Acid Synthesis
+n_R285	R285	Fatty Acid Synthesis
+n_R286	R286	Fatty Acid Synthesis
+n_R287	R287	Fatty Acid Synthesis
+n_R288	R288	Fatty Acid Synthesis
+n_R289	R289	Fatty Acid Synthesis
+n_R290	R290	Fatty Acid Synthesis
+n_R291	R291	Fatty Acid Synthesis
+n_R292	R292	Fatty Acid Synthesis
+n_R293	R293	Fatty Acid Synthesis
+n_R294	R294	Fatty Acid Synthesis
+n_R295	R295	Fatty Acid Synthesis
+n_R296	R296	Fatty Acid Synthesis
+n_R297	R297	Fatty Acid Synthesis
+n_R298	R298	Fatty Acid Synthesis
+n_R299	R299	Fatty Acid Synthesis
+n_R300	R300	Fatty Acid Synthesis
+n_R301	R301	Fatty Acid Synthesis
+n_R302	R302	Fatty Acid Synthesis
+n_R303	R303	Fatty Acid Synthesis
+n_R304	R304	Fatty Acid Synthesis
+n_R305	R305	Fatty Acid Synthesis
+n_R306	R306	Fatty Acid Synthesis
+n_R307	R307	Fatty Acid Synthesis
+n_R308	R308	Fatty Acid Synthesis
+n_R309	R309	Fatty Acid Synthesis
+n_R310	R310	Fatty Acid Synthesis
+n_R311	R311	Fatty Acid Synthesis
+n_R312	R312	Fatty Acid Synthesis
+n_R313	R313	Fatty Acid Synthesis
+n_R314	R314	Fatty Acid Synthesis
+n_R315	R315	Fatty Acid Synthesis
+n_R316	R316	Fatty Acid Synthesis
+n_R317	R317	Fatty Acid Synthesis
+n_R318	R318	Fatty Acid Synthesis
+n_R319	R319	Fatty Acid Synthesis
+n_R320	R320	Fatty Acid Synthesis
+n_R321	R321	Fatty Acid Synthesis
+n_R322	R322	Fatty Acid Synthesis
+n_R323	R323	Fatty Acid Synthesis
+n_R324	R324	Fatty Acid Synthesis
+n_R325	R325	Fatty Acid Synthesis
+n_R326	R326	Fatty Acid Synthesis
+n_R327	R327	Fatty Acid Synthesis
+n_R328	R328	Fatty Acid Synthesis
+n_R329	R329	Fatty Acid Synthesis
+n_R330	R330	Fatty Acid Synthesis
+n_R331	R331	Fatty Acid Synthesis
+n_R332	R332	Fatty Acid Synthesis
+n_R333	R333	Fatty Acid Synthesis
+n_R334	R334	Fatty Acid Synthesis
+n_R335	R335	Fatty Acid Synthesis
+n_R336	R336	Fatty Acid Synthesis
+n_R337	R337	Fatty Acid Synthesis
+n_R338	R338	Fatty Acid Synthesis
+n_R339	R339	Fatty Acid Synthesis
+n_R340	R340	Fatty Acid Synthesis
+n_R341	R341	Fatty Acid Synthesis
+n_R342	R342	Fatty Acid Synthesis
+n_R343	R343	Fatty Acid Synthesis
+n_R344	R344	Fatty Acid Synthesis
+n_R345	R345	Glycerol-3-phosphate Shuttle
+n_R346	R346	Glycerol-3-phosphate Shuttle
+n_R347	R347	Glycerol-3-phosphate Shuttle
+n_R348	R348	Phosphatidylethanolamine Metabolism
+n_R349	R349	Phosphatidylethanolamine Metabolism
+n_R350	R350	Phosphatidylethanolamine Metabolism
+n_R351	R351	Phosphatidylethanolamine Metabolism @  Phosphatidylcholine Metabolism
+n_R352	R352	Phosphatidylethanolamine Metabolism
+n_R353	R353	Phosphatidylethanolamine Metabolism
+n_R354	R354	Phosphatidylethanolamine Metabolism
+n_R355	R355	Phosphatidylethanolamine Metabolism
+n_R356	R356	Phosphatidylethanolamine Metabolism
+n_R357	R357	Phosphatidylethanolamine Metabolism @  Phosphatidylcholine Metabolism
+n_R358	R358	Phosphatidylethanolamine Metabolism
+n_R359	R359	Phosphatidylethanolamine Metabolism
+n_R360	R360	Phosphatidylcholine Metabolism
+n_R361	R361	Phosphatidylcholine Metabolism
+n_R362	R362	Phosphatidylcholine Metabolism
+n_R363	R363	Phosphatidylcholine Metabolism
+n_R364	R364	Phosphatidylcholine Metabolism
+n_R365	R365	Phosphatidylcholine Metabolism
+n_R366	R366	Cardiolipin Metabolism
+n_R367	R367	Cardiolipin Metabolism
+n_R368	R368	Cardiolipin Metabolism
+n_R369	R369	Cardiolipin Metabolism
+n_R370	R370	Cardiolipin Metabolism
+n_R371	R371	Cardiolipin Metabolism
+n_R372	R372	Sphingomyelin Metabolism
+n_R373	R373	Sphingomyelin Metabolism
+n_R374	R374	Sphingomyelin Metabolism
+n_R375	R375	Sphingomyelin Metabolism
+n_R376	R376	Sphingomyelin Metabolism
+n_R377	R377	Sphingomyelin Metabolism
+n_R378	R378	Sphingomyelin Metabolism
+n_R379	R379	Sphingomyelin Metabolism
+n_R380	R380	Sphingomyelin Metabolism
+n_R381	R381	Sphingomyelin Metabolism
+n_R382	R382	Sphingomyelin Metabolism
+n_R383	R383	Sphingomyelin Metabolism
+n_R384	R384	CDP-Diacylglycerol Biosynthesis
+n_R385	R385	CDP-Diacylglycerol Biosynthesis
+n_R386	R386	CDP-Diacylglycerol Biosynthesis
+n_R387	R387	CDP-Diacylglycerol Biosynthesis
+n_R388	R388	Inositol Metabolism
+n_R389	R389	Inositol Metabolism
+n_R390	R390	Inositol Metabolism @  CDP-Diacylglycerol Biosynthesis
+n_R391	R391	Inositol Metabolism
+n_R392	R392	Inositol Metabolism
+n_R393	R393	Inositol Metabolism
+n_R394	R394	Inositol Metabolism
+n_R395	R395	Inositol Metabolism
+n_R396	R396	Inositol Metabolism
+n_R397	R397	Inositol Metabolism
+n_R398	R398	Inositol Metabolism
+n_R399	R399	Inositol Metabolism
+n_R400	R400	Inositol Metabolism
+n_R401	R401	Inositol Metabolism
+n_R402	R402	Inositol Metabolism
+n_R403	R403	Inositol Metabolism
+n_R404	R404	Inositol Metabolism @  CDP-Diacylglycerol Biosynthesis
+n_R405	R405	Inositol Metabolism
+n_R406	R406	Inositol Metabolism
+n_R407	R407	Inositol Metabolism
+n_R408	R408	Inositol Metabolism
+n_R409	R409	Inositol Metabolism
+n_R410	R410	Inositol Metabolism
+n_R411	R411	Inositol Metabolism
+n_R412	R412	Inositol Metabolism
+n_R413	R413	Inositol Metabolism
+n_R414	R414	Inositol Metabolism
+n_R415	R415	Inositol Metabolism
+n_R416	R416	Lipid Synthesis
+n_R417	R417	Lipid Synthesis
+n_R418	R418	Reactive Oxygen Species Pathway
+n_R419	R419	Reactive Oxygen Species Pathway
+n_R420	R420	Reactive Oxygen Species Pathway
+n_R421	R421	Reactive Oxygen Species Pathway
+n_R422	R422	Reactive Oxygen Species Pathway
+n_R423	R423	Reactive Oxygen Species Pathway
+n_R424	R424	Reactive Oxygen Species Pathway
+n_R425	R425	Reactive Oxygen Species Pathway
+n_R426	R426	Reactive Oxygen Species Pathway
+n_R427	R427	Reactive Oxygen Species Pathway
+n_R428	R428	Reactive Oxygen Species Pathway
+n_R429	R429	Reactive Oxygen Species Pathway
+n_R430	R430	Reactive Oxygen Species Pathway
+n_R431	R431	Reactive Oxygen Species Pathway
+n_R432	R432	Reactive Oxygen Species Pathway
+n_R433	R433	Reactive Oxygen Species Pathway
+n_R434	R434	Reactive Oxygen Species Pathway
+n_R435	R435	Reactive Oxygen Species Pathway
+n_R436	R436	Glycogen Degradation Metabolism
+n_R437	R437	Glycogen Degradation Metabolism
+n_R438	R438	Ketone Body Metabolism
+n_R439	R439	Ketone Body Metabolism
+n_R440	R440	Ketone Body Metabolism
+n_R441	R441	Ketone Body Metabolism
+n_R442	R442	Ketone Body Metabolism
+n_R443	R443	Ketone Body Metabolism
+n_R444	R444	Ketone Body Metabolism
+n_R445	R445	Arginine Metabolism
+n_R446	R446	Arginine Metabolism
+n_R447	R447	Arginine Metabolism
+n_R448	R448	Arginine Metabolism
+n_R449	R449	Arginine Metabolism
+n_R450	R450	Arginine Metabolism
+n_R451	R451	Arginine Metabolism
+n_R452	R452	Arginine Metabolism
+n_R453	R453	Arginine Metabolism
+n_R454	R454	Arginine Metabolism
+n_R455	R455	Arginine Metabolism
+n_R456	R456	Arginine Metabolism
+n_R457	R457	Arginine Metabolism
+n_R458	R458	Arginine Metabolism
+n_R459	R459	Arginine Metabolism
+n_R460	R460	Arginine Metabolism
+n_R461	R461	Polyamine Metabolism
+n_R462	R462	Polyamine Metabolism
+n_R463	R463	Polyamine Metabolism
+n_R464	R464	Polyamine Metabolism
+n_R465	R465	Polyamine Metabolism
+n_R466	R466	Polyamine Metabolism
+n_R467	R467	Polyamine Metabolism
+n_R468	R468	Polyamine Metabolism
+n_R469	R469	Polyamine Metabolism
+n_R470	R470	Polyamine Metabolism
+n_R471	R471	Polyamine Metabolism
+n_R472	R472	Polyamine Metabolism
+n_R473	R473	Polyamine Metabolism
+n_R474	R474	Creatine Metabolism
+n_R475	R475	Creatine Metabolism
+n_R476	R476	Creatine Metabolism
+n_R477	R477	Creatine Metabolism
+n_R478	R478	Creatine Metabolism
+n_R479	R479	Creatine Metabolism
+n_R480	R480	Heme Metabolism
+n_R481	R481	Heme Metabolism
+n_R482	R482	Heme Metabolism
+n_R483	R483	Heme Metabolism
+n_R484	R484	Heme Metabolism
+n_R485	R485	Heme Metabolism
+n_R486	R486	Heme Metabolism
+n_R487	R487	Heme Metabolism
+n_R488	R488	Heme Metabolism
+n_R489	R489	Heme Metabolism
+n_R490	R490	Heme Metabolism
+n_R491	R491	Heme Metabolism
+n_R492	R492	Heme Metabolism
+n_R493	R493	Heme Metabolism
+n_R494	R494	Heme Metabolism
+n_R495	R495	Heme Metabolism
+n_R496	R496	Heme Metabolism
+n_R497	R497	Heme Metabolism
+n_R498	R498	Heme Metabolism
+n_R499	R499	Heme Metabolism
+n_R500	R500	Purine Nucleoside Metabolism
+n_R501	R501	Purine Nucleoside Metabolism
+n_R502	R502	Purine Nucleoside Metabolism
+n_R503	R503	Purine Nucleoside Metabolism
+n_R504	R504	Purine Nucleoside Metabolism
+n_R505	R505	Purine Nucleoside Metabolism
+n_R506	R506	Purine Nucleoside Metabolism
+n_R507	R507	Purine Nucleoside Metabolism
+n_R508	R508	Purine Nucleoside Metabolism
+n_R509	R509	Purine Nucleoside Metabolism
+n_R510	R510	Purine Nucleoside Metabolism
+n_R511	R511	Purine Nucleoside Metabolism
+n_R512	R512	Purine Nucleoside Metabolism
+n_R513	R513	Purine Nucleoside Metabolism
+n_R514	R514	Purine Nucleoside Metabolism
+n_R515	R515	Purine Nucleoside Metabolism
+n_R516	R516	Purine Nucleoside Metabolism
+n_R517	R517	Purine Nucleoside Metabolism
+n_R518	R518	Pirimidine Nucleoside Metabolism
+n_R519	R519	Pirimidine Nucleoside Metabolism
+n_R520	R520	Pirimidine Nucleoside Metabolism
+n_R521	R521	Pirimidine Nucleoside Metabolism
+n_R522	R522	Pirimidine Nucleoside Metabolism
+n_R523	R523	Pirimidine Nucleoside Metabolism
+n_R524	R524	Pirimidine Nucleoside Metabolism
+n_R525	R525	Pirimidine Nucleoside Metabolism
+n_R526	R526	Pirimidine Nucleoside Metabolism
+n_R527	R527	Pirimidine Nucleoside Metabolism
+n_R528	R528	Pirimidine Nucleoside Metabolism
+n_R529	R529	Pirimidine Nucleoside Metabolism
+n_R530	R530	Pirimidine Nucleoside Metabolism
+n_R531	R531	Pirimidine Nucleoside Metabolism
+n_R532	R532	Pirimidine Nucleoside Metabolism
+n_R533	R533	Pirimidine Nucleoside Metabolism
+n_R534	R534	Pirimidine Nucleoside Metabolism
+n_R535	R535	Pirimidine Nucleoside Metabolism
+n_R536	R536	Purine Nucleoside Metabolism
+n_R537	R537	Purine Nucleoside Metabolism
+n_R538	R538	Purine Nucleoside Metabolism
+n_R539	R539	Purine Nucleoside Metabolism
+n_R540	R540	Purine Nucleoside Metabolism
+n_R541	R541	Purine Nucleoside Metabolism
+n_R542	R542	Purine Nucleoside Metabolism
+n_R543	R543	Purine Nucleoside Metabolism
+n_R544	R544	Purine Nucleoside Metabolism
+n_R545	R545	Purine Nucleoside Metabolism
+n_R546	R546	Purine Nucleoside Metabolism
+n_R547	R547	Purine Nucleoside Metabolism
+n_R548	R548	Purine Nucleoside Metabolism
+n_R549	R549	Purine Nucleoside Metabolism
+n_R550	R550	Purine Nucleoside Metabolism
+n_R551	R551	Purine Nucleoside Metabolism
+n_R552	R552	Purine Nucleoside Metabolism
+n_R553	R553	Purine Nucleoside Metabolism
+n_R554	R554	Pirimidine Nucleoside Metabolism
+n_R555	R555	Pirimidine Nucleoside Metabolism
+n_R556	R556	Pirimidine Nucleoside Metabolism
+n_R557	R557	Pirimidine Nucleoside Metabolism
+n_R558	R558	Pirimidine Nucleoside Metabolism
+n_R559	R559	Pirimidine Nucleoside Metabolism
+n_R560	R560	Pirimidine Nucleoside Metabolism
+n_R561	R561	Pirimidine Nucleoside Metabolism
+n_R562	R562	Pirimidine Nucleoside Metabolism
+n_R563	R563	Pirimidine Nucleoside Metabolism
+n_R564	R564	Pirimidine Nucleoside Metabolism
+n_R565	R565	Pirimidine Nucleoside Metabolism
+n_R566	R566	Pirimidine Nucleoside Metabolism
+n_R567	R567	Pirimidine Nucleoside Metabolism
+n_R568	R568	Pirimidine Nucleoside Metabolism
+n_R569	R569	Pirimidine Nucleoside Metabolism
+n_R570	R570	Pirimidine Nucleoside Metabolism
+n_R571	R571	Pirimidine Nucleoside Metabolism
+n_R572	R572	Exchange
+n_R573	R573	Exchange
+n_R574	R574	Exchange
+n_R575	R575	Exchange
+n_R576	R576	Exchange
+n_R577	R577	Exchange
+n_R578	R578	Exchange
+n_R579	R579	Exchange
+n_R580	R580	Exchange
+n_R581	R581	Exchange
+n_R582	R582	Exchange
+n_R583	R583	Exchange
+n_R584	R584	Exchange
+n_R585	R585	Exchange
+n_R586	R586	Exchange
+n_R587	R587	Exchange
+n_R588	R588	Exchange
+n_R589	R589	Exchange
+n_R590	R590	Exchange
+n_R591	R591	Exchange
+n_R592	R592	Exchange
+n_R593	R593	Exchange
+n_R594	R594	Exchange
+n_R595	R595	Exchange
+n_R596	R596	Exchange
+n_R597	R597	Exchange
+n_R598	R598	Exchange
+n_R599	R599	Exchange
+n_R600	R600	Exchange
+n_R601	R601	Exchange
+n_R602	R602	Exchange
+n_R603	R603	Exchange
+n_R604	R604	Exchange
+n_R605	R605	Exchange
+n_R606	R606	Exchange
+n_R607	R607	Exchange
+n_R608	R608	Exchange
+n_R609	R609	Exchange
+n_R610	R610	Exchange
+n_R611	R611	Exchange
+n_R612	R612	Exchange
+n_R613	R613	Exchange
+n_R614	R614	Exchange
+n_R615	R615	Exchange
+n_R616	R616	Exchange
+n_R617	R617	Exchange
+n_R618	R618	Exchange
+n_R619	R619	Exchange
+n_R620	R620	Exchange
+n_R621	R621	Exchange
+n_R622	R622	Exchange
+n_R623	R623	Exchange
+n_R624	R624	Exchange
+n_R625	R625	Exchange
+n_R626	R626	Exchange
+n_R627	R627	Exchange
+n_R628	R628	Exchange
+n_R629	R629	Exchange
+n_R630	R630	Exchange
