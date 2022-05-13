@@ -1,0 +1,631 @@
+Reaction	P.Value	Pathway	adj_pval
+1	R8	0	Glycolysis	0
+2	R9	0	Glycolysis	0
+3	R10	0	Glycolysis	0
+4	R12	0	Glycolysis	0
+5	R13	0	Glycolysis	0
+6	R25	0	TCA Cycle	0
+7	R26	0	TCA Cycle	0
+8	R27	0	TCA Cycle	0
+9	R30	0	TCA Cycle	0
+10	R33	0	TCA Cycle	0
+11	R34	0	TCA Cycle	0
+12	R35	0	TCA Cycle	0
+13	R36	0	TCA Cycle	0
+14	R37	0	TCA Cycle	0
+15	R39	0	TCA Cycle	0
+16	R41	0	Oxidative Phosphorylation and ATPase	0
+17	R42	0	Oxidative Phosphorylation and ATPase	0
+18	R43	0	Oxidative Phosphorylation and ATPase	0
+19	R44	0	Oxidative Phosphorylation and ATPase	0
+20	R45	0	Oxidative Phosphorylation and ATPase	0
+21	R50	0	Glycolysis	0
+22	R51	0	Glycolysis	0
+23	R53	0	Glycolysis	0
+24	R54	0	Glycolysis	0
+25	R55	0	Glycolysis	0
+26	R57	0	Glycolysis	0
+27	R69	0	TCA Cycle	0
+28	R70	0	TCA Cycle	0
+29	R71	0	TCA Cycle	0
+30	R75	0	TCA Cycle	0
+31	R76	0	TCA Cycle	0
+32	R77	0	TCA Cycle	0
+33	R78	0	TCA Cycle	0
+34	R79	0	TCA Cycle	0
+35	R80	0	TCA Cycle	0
+36	R81	0	TCA Cycle	0
+37	R85	0	Oxidative Phosphorylation and ATPase	0
+38	R86	0	Oxidative Phosphorylation and ATPase	0
+39	R87	0	Oxidative Phosphorylation and ATPase	0
+40	R88	0	Oxidative Phosphorylation and ATPase	0
+41	R90	0	Glutamate - Glutamine Cycle	0
+42	R91	0	Glutamate - Glutamine Cycle	0
+43	R94	0	Glutamate - Glutamine Cycle	0
+44	R95	0	Glutamate - Glutamine Cycle	0
+45	R96	0	Glutamate - Glutamine Cycle	0
+46	R97	0	GABA Cycle	0
+47	R98	0	GABA Cycle	0
+48	R99	0	GABA Cycle	0
+49	R100	0	GABA Cycle	0
+50	R101	0	GABA Cycle	0
+51	R102	0	GABA Cycle	0
+52	R103	0	Aspartate Metabolism	0
+53	R104	0	Aspartate Metabolism	0
+54	R105	0	Aspartate Metabolism	0
+55	R109	0	Alanine Metabolism	0
+56	R110	0	Alanine Metabolism	0
+57	R111	0	Alanine Metabolism	0
+58	R112	0	Glycine-Serine Metabolism	0
+59	R113	0	Glycine-Serine Metabolism	0
+60	R114	0	Glycine-Serine Metabolism	0
+61	R116	0	Glycine-Serine Metabolism	0
+62	R128	0	Ketone Body Metabolism	0
+63	R145	0	Isoleucine Metabolism	0
+64	R151	0	Isoleucine Metabolism	0
+65	R152	0	Isoleucine Metabolism	0
+66	R153	0	Isoleucine Metabolism	0
+67	R202	0	Cholesterol Synthesis	0
+68	R203	0	Cholesterol Synthesis	0
+69	R204	0	Cholesterol Synthesis	0
+70	R205	0	Cholesterol Synthesis	0
+71	R206	0	Cholesterol Synthesis	0
+72	R207	0	Cholesterol Synthesis	0
+73	R208	0	Cholesterol Synthesis	0
+74	R209	0	Cholesterol Synthesis	0
+75	R210	0	Cholesterol Synthesis	0
+76	R211	0	Cholesterol Synthesis	0
+77	R212	0	Cholesterol Synthesis	0
+78	R213	0	Cholesterol Synthesis	0
+79	R214	0	Cholesterol Synthesis	0
+80	R215	0	Cholesterol Synthesis	0
+81	R216	0	Cholesterol Synthesis	0
+82	R217	0	Cholesterol Synthesis	0
+83	R218	0	Cholesterol Synthesis	0
+84	R219	0	Cholesterol Synthesis	0
+85	R220	0	Cholesterol Synthesis	0
+86	R221	0	Cholesterol Synthesis	0
+87	R222	0	Cholesterol Synthesis	0
+88	R223	0	Cholesterol Synthesis	0
+89	R224	0	Cholesterol Synthesis	0
+90	R225	0	Cholesterol Synthesis	0
+91	R226	0	Cholesterol Synthesis	0
+92	R227	0	Cholesterol Synthesis	0
+93	R228	0	Cholesterol Synthesis	0
+94	R232	0	Cholesterol Synthesis	0
+95	R233	0	Cholesterol Synthesis	0
+96	R234	0	Cholesterol Synthesis	0
+97	R235	0	Cholesterol Synthesis	0
+98	R236	0	Cholesterol Synthesis	0
+99	R237	0	Cholesterol Synthesis	0
+100	R238	0	Cholesterol Synthesis	0
+101	R239	0	Cholesterol Synthesis	0
+102	R240	0	Cholesterol Synthesis	0
+103	R241	0	Cholesterol Synthesis	0
+104	R242	0	Cholesterol Synthesis	0
+105	R243	0	Cholesterol Synthesis	0
+106	R244	0	Cholesterol Synthesis	0
+107	R245	0	Cholesterol Synthesis	0
+108	R246	0	Cholesterol Synthesis	0
+109	R247	0	Cholesterol Synthesis	0
+110	R248	0	Cholesterol Synthesis	0
+111	R249	0	Cholesterol Synthesis	0
+112	R250	0	Cholesterol Synthesis	0
+113	R251	0	Cholesterol Synthesis	0
+114	R252	0	Cholesterol Synthesis	0
+115	R296	0	Fatty Acid Synthesis	0
+116	R297	0	Fatty Acid Synthesis	0
+117	R298	0	Fatty Acid Synthesis	0
+118	R299	0	Fatty Acid Synthesis	0
+119	R300	0	Fatty Acid Synthesis	0
+120	R301	0	Fatty Acid Synthesis	0
+121	R302	0	Fatty Acid Synthesis	0
+122	R303	0	Fatty Acid Synthesis	0
+123	R304	0	Fatty Acid Synthesis	0
+124	R305	0	Fatty Acid Synthesis	0
+125	R306	0	Fatty Acid Synthesis	0
+126	R307	0	Fatty Acid Synthesis	0
+127	R308	0	Fatty Acid Synthesis	0
+128	R309	0	Fatty Acid Synthesis	0
+129	R310	0	Fatty Acid Synthesis	0
+130	R311	0	Fatty Acid Synthesis	0
+131	R312	0	Fatty Acid Synthesis	0
+132	R313	0	Fatty Acid Synthesis	0
+133	R314	0	Fatty Acid Synthesis	0
+134	R315	0	Fatty Acid Synthesis	0
+135	R316	0	Fatty Acid Synthesis	0
+136	R318	0	Fatty Acid Synthesis	0
+137	R319	0	Fatty Acid Synthesis	0
+138	R320	0	Fatty Acid Synthesis	0
+139	R321	0	Fatty Acid Synthesis	0
+140	R322	0	Fatty Acid Synthesis	0
+141	R323	0	Fatty Acid Synthesis	0
+142	R324	0	Fatty Acid Synthesis	0
+143	R325	0	Fatty Acid Synthesis	0
+144	R326	0	Fatty Acid Synthesis	0
+145	R328	0	Fatty Acid Synthesis	0
+146	R329	0	Fatty Acid Synthesis	0
+147	R330	0	Fatty Acid Synthesis	0
+148	R333	0	Fatty Acid Synthesis	0
+149	R334	0	Fatty Acid Synthesis	0
+150	R335	0	Fatty Acid Synthesis	0
+151	R336	0	Fatty Acid Synthesis	0
+152	R337	0	Fatty Acid Synthesis	0
+153	R338	0	Fatty Acid Synthesis	0
+154	R339	0	Fatty Acid Synthesis	0
+155	R340	0	Fatty Acid Synthesis	0
+156	R341	0	Fatty Acid Synthesis	0
+157	R342	0	Fatty Acid Synthesis	0
+158	R344	0	Fatty Acid Synthesis	0
+159	R345	0	Glycerol-3-phosphate Shuttle	0
+160	R346	0	Glycerol-3-phosphate Shuttle	0
+161	R347	0	Glycerol-3-phosphate Shuttle	0
+162	R354	0	Phosphatidylethanolamine Metabolism	0
+163	R355	0	Phosphatidylethanolamine Metabolism	0
+164	R356	0	Phosphatidylethanolamine Metabolism	0
+165	R357	0	Phosphatidylcholine Metabolism	0
+166	R358	0	Phosphatidylethanolamine Metabolism	0
+167	R359	0	Phosphatidylethanolamine Metabolism	0
+168	R369	0	Cardiolipin Metabolism	0
+169	R370	0	Cardiolipin Metabolism	0
+170	R371	0	Cardiolipin Metabolism	0
+171	R378	0	Sphingomyelin Metabolism	0
+172	R379	0	Sphingomyelin Metabolism	0
+173	R380	0	Sphingomyelin Metabolism	0
+174	R381	0	Sphingomyelin Metabolism	0
+175	R382	0	Sphingomyelin Metabolism	0
+176	R386	0	CDP-Diacylglycerol Biosynthesis	0
+177	R387	0	CDP-Diacylglycerol Biosynthesis	0
+178	R402	0	Inositol Metabolism	0
+179	R403	0	Inositol Metabolism	0
+180	R404	0	CDP-Diacylglycerol Biosynthesis	0
+181	R405	0	Inositol Metabolism	0
+182	R406	0	Inositol Metabolism	0
+183	R407	0	Inositol Metabolism	0
+184	R408	0	Inositol Metabolism	0
+185	R409	0	Inositol Metabolism	0
+186	R410	0	Inositol Metabolism	0
+187	R411	0	Inositol Metabolism	0
+188	R417	0	Lipid Synthesis	0
+189	R431	0	Reactive Oxygen Species Pathway	0
+190	R432	0	Reactive Oxygen Species Pathway	0
+191	R453	0	Arginine Metabolism	0
+192	R454	0	Arginine Metabolism	0
+193	R455	0	Arginine Metabolism	0
+194	R456	0	Arginine Metabolism	0
+195	R457	0	Arginine Metabolism	0
+196	R458	0	Arginine Metabolism	0
+197	R459	0	Arginine Metabolism	0
+198	R529	0	Pirimidine Nucleoside Metabolism	0
+199	R530	0	Pirimidine Nucleoside Metabolism	0
+200	R536	0	Purine Nucleoside Metabolism	0
+201	R538	0	Purine Nucleoside Metabolism	0
+202	R542	0	Purine Nucleoside Metabolism	0
+203	R565	0	Pirimidine Nucleoside Metabolism	0
+204	R567	0	Pirimidine Nucleoside Metabolism	0
+205	R585	0	Exchange	0
+206	R587	0	Exchange	0
+207	R588	0	Exchange	0
+208	R592	0	Exchange	0
+209	R618	0	Exchange	0
+210	R622	0	Exchange	0
+211	R434	2.61e-287	Reactive Oxygen Species Pathway	7.79289099526066e-287
+212	R576	1.99e-276	Exchange	5.91367924528302e-276
+213	R84	9.31e-265	Oxidative Phosphorylation and ATPase	2.75366197183099e-264
+214	R575	8.25e-234	Exchange	2.42873831775701e-233
+215	R537	1.21e-159	Purine Nucleoside Metabolism	3.54558139534884e-159
+216	R433	5.88e-135	Reactive Oxygen Species Pathway	1.715e-134
+217	R31	2.32e-57	TCA Cycle	6.73548387096774e-57
+218	R287	3.62e-39	Fatty Acid Synthesis	1.04614678899083e-38
+219	R282	3.77e-39	Fatty Acid Synthesis	1.07959090909091e-38
+220	R286	3.77e-39	Fatty Acid Synthesis	1.07959090909091e-38
+221	R7	4.58e-35	Glycolysis	1.29390134529148e-34
+222	R15	4.58e-35	Glycolysis	1.29390134529148e-34
+223	R16	4.58e-35	Glycolysis	1.29390134529148e-34
+224	R89	0.233352367826436	Glutamate - Glutamine Cycle	0.656303534511851
+225	R83	0.23766289093453	TCA Cycle	0.665456094616684
+226	R93	0.239112152663261	Glutamate - Glutamine Cycle	0.666551576008205
+227	R59	0.600278642349761	Glycolysis	1
+228	R60	0.600278642349761	Glycolysis	1
+229	R52	0.600440238659412	Glycolysis	1
+230	R331	0.650446515581989	Fatty Acid Synthesis	1
+231	R332	0.650446515581989	Fatty Acid Synthesis	1
+232	R327	0.651171553934341	Fatty Acid Synthesis	1
+233	R1	1	Glycolysis	1
+234	R2	1	Glycolysis	1
+235	R3	1	Glycolysis	1
+236	R4	1	Glycolysis	1
+237	R5	1	Glycolysis	1
+238	R6	1	Glycolysis	1
+239	R11	1	Glycolysis	1
+240	R14	1	Glycolysis	1
+241	R17	1	Pentose Phosphate Pathway	1
+242	R18	1	Pentose Phosphate Pathway	1
+243	R19	1	Pentose Phosphate Pathway	1
+244	R20	1	Pentose Phosphate Pathway	1
+245	R21	1	Pentose Phosphate Pathway	1
+246	R22	1	Pentose Phosphate Pathway	1
+247	R23	1	Pentose Phosphate Pathway	1
+248	R24	1	Pentose Phosphate Pathway	1
+249	R28	1	TCA Cycle	1
+250	R29	1	TCA Cycle	1
+251	R32	1	TCA Cycle	1
+252	R38	1	TCA Cycle	1
+253	R40	1	TCA Cycle	1
+254	R46	1	Glycolysis	1
+255	R47	1	Glycolysis	1
+256	R48	1	Glycolysis	1
+257	R49	1	Glycolysis	1
+258	R56	1	Glycolysis	1
+259	R58	1	Glycolysis	1
+260	R61	1	Pentose Phosphate Pathway	1
+261	R62	1	Pentose Phosphate Pathway	1
+262	R63	1	Pentose Phosphate Pathway	1
+263	R64	1	Pentose Phosphate Pathway	1
+264	R65	1	Pentose Phosphate Pathway	1
+265	R66	1	Pentose Phosphate Pathway	1
+266	R67	1	Pentose Phosphate Pathway	1
+267	R68	1	Pentose Phosphate Pathway	1
+268	R72	1	TCA Cycle	1
+269	R73	1	TCA Cycle	1
+270	R74	1	TCA Cycle	1
+271	R82	1	TCA Cycle	1
+272	R92	1	Glutamate - Glutamine Cycle	1
+273	R106	1	Asparagine Metabolism	1
+274	R107	1	Histamine Metabolism	1
+275	R108	1	Histamine Metabolism	1
+276	R115	1	Glycine-Serine Metabolism	1
+277	R117	1	Glycine-Serine Metabolism	1
+278	R118	1	Glycine-Serine Metabolism	1
+279	R119	1	Glycine-Serine Metabolism	1
+280	R120	1	Glycine-Serine Metabolism	1
+281	R121	1	Leucine Metabolism	1
+282	R122	1	Leucine Metabolism	1
+283	R123	1	Leucine Metabolism	1
+284	R124	1	Leucine Metabolism	1
+285	R125	1	Leucine Metabolism	1
+286	R126	1	Leucine Metabolism	1
+287	R127	1	Ketone Body Metabolism	1
+288	R129	1	Leucine Metabolism	1
+289	R130	1	Leucine Metabolism	1
+290	R131	1	Leucine Metabolism	1
+291	R132	1	Valine Metabolism	1
+292	R133	1	Valine Metabolism	1
+293	R134	1	Valine Metabolism	1
+294	R135	1	Valine Metabolism	1
+295	R136	1	Valine Metabolism	1
+296	R137	1	Valine Metabolism	1
+297	R138	1	Valine Metabolism	1
+298	R139	1	Isoleucine Metabolism	1
+299	R140	1	Isoleucine Metabolism	1
+300	R141	1	Isoleucine Metabolism	1
+301	R142	1	Valine Metabolism	1
+302	R143	1	Valine Metabolism	1
+303	R144	1	Valine Metabolism	1
+304	R146	1	Isoleucine Metabolism	1
+305	R147	1	Isoleucine Metabolism	1
+306	R148	1	Isoleucine Metabolism	1
+307	R149	1	Isoleucine Metabolism	1
+308	R150	1	Isoleucine Metabolism	1
+309	R154	1	Lysine Metabolism	1
+310	R155	1	Lysine Metabolism	1
+311	R156	1	Lysine Metabolism	1
+312	R157	1	Lysine Metabolism	1
+313	R158	1	Lysine Metabolism	1
+314	R159	1	Lysine Metabolism	1
+315	R160	1	Lysine Metabolism	1
+316	R161	1	Lysine Metabolism	1
+317	R162	1	Lysine Metabolism	1
+318	R163	1	Lysine Metabolism	1
+319	R164	1	Ketone Body Metabolism	1
+320	R165	1	Phenylalanine-Tyrosine Metabolism	1
+321	R166	1	Phenylalanine-Tyrosine Metabolism	1
+322	R167	1	Phenylalanine-Tyrosine Metabolism	1
+323	R168	1	Phenylalanine-Tyrosine Metabolism	1
+324	R169	1	Phenylalanine-Tyrosine Metabolism	1
+325	R170	1	Phenylalanine-Tyrosine Metabolism	1
+326	R171	1	Phenylalanine-Tyrosine Metabolism	1
+327	R172	1	Phenylalanine-Tyrosine Metabolism	1
+328	R173	1	Phenylalanine-Tyrosine Metabolism	1
+329	R174	1	Tryptophan Metabolism	1
+330	R175	1	Tryptophan Metabolism	1
+331	R176	1	Tryptophan Metabolism	1
+332	R177	1	Tryptophan Metabolism	1
+333	R178	1	Acetylcholine Metabolism	1
+334	R179	1	Proline metabolism	1
+335	R180	1	Proline metabolism	1
+336	R181	1	Methionine Metabolism	1
+337	R182	1	Methionine Metabolism	1
+338	R183	1	Methionine Metabolism	1
+339	R184	1	Methionine Metabolism	1
+340	R185	1	Methionine Metabolism	1
+341	R186	1	Methionine Metabolism	1
+342	R187	1	Methionine Metabolism	1
+343	R188	1	Methionine Metabolism	1
+344	R189	1	Methionine Metabolism	1
+345	R190	1	Methionine Metabolism	1
+346	R191	1	Methionine Metabolism	1
+347	R192	1	Methionine Metabolism	1
+348	R193	1	Methionine Metabolism	1
+349	R194	1	Methionine Metabolism	1
+350	R195	1	Methionine Metabolism	1
+351	R196	1	Threonine Metabolism	1
+352	R197	1	Threonine Metabolism	1
+353	R198	1	Threonine Metabolism	1
+354	R199	1	Threonine Metabolism	1
+355	R200	1	Threonine Metabolism	1
+356	R201	1	Threonine Metabolism	1
+357	R229	1	Cholesterol Synthesis	1
+358	R230	1	Cholesterol Synthesis	1
+359	R231	1	Cholesterol Synthesis	1
+360	R253	1	Fatty Acid Synthesis	1
+361	R254	1	Fatty Acid Synthesis	1
+362	R255	1	Fatty Acid Synthesis	1
+363	R256	1	Fatty Acid Synthesis	1
+364	R257	1	Fatty Acid Synthesis	1
+365	R258	1	Fatty Acid Synthesis	1
+366	R259	1	Fatty Acid Synthesis	1
+367	R260	1	Fatty Acid Synthesis	1
+368	R261	1	Fatty Acid Synthesis	1
+369	R262	1	Fatty Acid Synthesis	1
+370	R263	1	Fatty Acid Synthesis	1
+371	R264	1	Fatty Acid Synthesis	1
+372	R265	1	Fatty Acid Synthesis	1
+373	R266	1	Fatty Acid Synthesis	1
+374	R267	1	Fatty Acid Synthesis	1
+375	R268	1	Fatty Acid Synthesis	1
+376	R269	1	Fatty Acid Synthesis	1
+377	R270	1	Fatty Acid Synthesis	1
+378	R271	1	Fatty Acid Synthesis	1
+379	R272	1	Fatty Acid Synthesis	1
+380	R273	1	Fatty Acid Synthesis	1
+381	R274	1	Fatty Acid Synthesis	1
+382	R275	1	Fatty Acid Synthesis	1
+383	R276	1	Fatty Acid Synthesis	1
+384	R277	1	Fatty Acid Synthesis	1
+385	R278	1	Fatty Acid Synthesis	1
+386	R279	1	Fatty Acid Synthesis	1
+387	R280	1	Fatty Acid Synthesis	1
+388	R281	1	Fatty Acid Synthesis	1
+389	R283	1	Fatty Acid Synthesis	1
+390	R284	1	Fatty Acid Synthesis	1
+391	R285	1	Fatty Acid Synthesis	1
+392	R288	1	Fatty Acid Synthesis	1
+393	R289	1	Fatty Acid Synthesis	1
+394	R290	1	Fatty Acid Synthesis	1
+395	R291	1	Fatty Acid Synthesis	1
+396	R292	1	Fatty Acid Synthesis	1
+397	R293	1	Fatty Acid Synthesis	1
+398	R294	1	Fatty Acid Synthesis	1
+399	R295	1	Fatty Acid Synthesis	1
+400	R317	1	Fatty Acid Synthesis	1
+401	R343	1	Fatty Acid Synthesis	1
+402	R348	1	Phosphatidylethanolamine Metabolism	1
+403	R349	1	Phosphatidylethanolamine Metabolism	1
+404	R350	1	Phosphatidylethanolamine Metabolism	1
+405	R351	1	Phosphatidylcholine Metabolism	1
+406	R352	1	Phosphatidylethanolamine Metabolism	1
+407	R353	1	Phosphatidylethanolamine Metabolism	1
+408	R360	1	Phosphatidylcholine Metabolism	1
+409	R361	1	Phosphatidylcholine Metabolism	1
+410	R362	1	Phosphatidylcholine Metabolism	1
+411	R363	1	Phosphatidylcholine Metabolism	1
+412	R364	1	Phosphatidylcholine Metabolism	1
+413	R365	1	Phosphatidylcholine Metabolism	1
+414	R366	1	Cardiolipin Metabolism	1
+415	R367	1	Cardiolipin Metabolism	1
+416	R368	1	Cardiolipin Metabolism	1
+417	R372	1	Sphingomyelin Metabolism	1
+418	R373	1	Sphingomyelin Metabolism	1
+419	R374	1	Sphingomyelin Metabolism	1
+420	R375	1	Sphingomyelin Metabolism	1
+421	R376	1	Sphingomyelin Metabolism	1
+422	R377	1	Sphingomyelin Metabolism	1
+423	R383	1	Sphingomyelin Metabolism	1
+424	R384	1	CDP-Diacylglycerol Biosynthesis	1
+425	R385	1	CDP-Diacylglycerol Biosynthesis	1
+426	R388	1	Inositol Metabolism	1
+427	R389	1	Inositol Metabolism	1
+428	R390	1	CDP-Diacylglycerol Biosynthesis	1
+429	R391	1	Inositol Metabolism	1
+430	R392	1	Inositol Metabolism	1
+431	R393	1	Inositol Metabolism	1
+432	R394	1	Inositol Metabolism	1
+433	R395	1	Inositol Metabolism	1
+434	R396	1	Inositol Metabolism	1
+435	R397	1	Inositol Metabolism	1
+436	R398	1	Inositol Metabolism	1
+437	R399	1	Inositol Metabolism	1
+438	R400	1	Inositol Metabolism	1
+439	R401	1	Inositol Metabolism	1
+440	R412	1	Inositol Metabolism	1
+441	R413	1	Inositol Metabolism	1
+442	R414	1	Inositol Metabolism	1
+443	R415	1	Inositol Metabolism	1
+444	R416	1	Lipid Synthesis	1
+445	R418	1	Reactive Oxygen Species Pathway	1
+446	R419	1	Reactive Oxygen Species Pathway	1
+447	R420	1	Reactive Oxygen Species Pathway	1
+448	R421	1	Reactive Oxygen Species Pathway	1
+449	R422	1	Reactive Oxygen Species Pathway	1
+450	R423	1	Reactive Oxygen Species Pathway	1
+451	R424	1	Reactive Oxygen Species Pathway	1
+452	R425	1	Reactive Oxygen Species Pathway	1
+453	R426	1	Reactive Oxygen Species Pathway	1
+454	R427	1	Reactive Oxygen Species Pathway	1
+455	R428	1	Reactive Oxygen Species Pathway	1
+456	R429	1	Reactive Oxygen Species Pathway	1
+457	R430	1	Reactive Oxygen Species Pathway	1
+458	R435	1	Reactive Oxygen Species Pathway	1
+459	R436	1	Glycogen Degradation Metabolism	1
+460	R437	1	Glycogen Degradation Metabolism	1
+461	R438	1	Ketone Body Metabolism	1
+462	R439	1	Ketone Body Metabolism	1
+463	R440	1	Ketone Body Metabolism	1
+464	R441	1	Ketone Body Metabolism	1
+465	R442	1	Ketone Body Metabolism	1
+466	R443	1	Ketone Body Metabolism	1
+467	R444	1	Ketone Body Metabolism	1
+468	R445	1	Arginine Metabolism	1
+469	R446	1	Arginine Metabolism	1
+470	R447	1	Arginine Metabolism	1
+471	R448	1	Arginine Metabolism	1
+472	R449	1	Arginine Metabolism	1
+473	R450	1	Arginine Metabolism	1
+474	R451	1	Arginine Metabolism	1
+475	R452	1	Arginine Metabolism	1
+476	R460	1	Arginine Metabolism	1
+477	R461	1	Polyamine Metabolism	1
+478	R462	1	Polyamine Metabolism	1
+479	R463	1	Polyamine Metabolism	1
+480	R464	1	Polyamine Metabolism	1
+481	R465	1	Polyamine Metabolism	1
+482	R466	1	Polyamine Metabolism	1
+483	R467	1	Polyamine Metabolism	1
+484	R468	1	Polyamine Metabolism	1
+485	R469	1	Polyamine Metabolism	1
+486	R470	1	Polyamine Metabolism	1
+487	R471	1	Polyamine Metabolism	1
+488	R472	1	Polyamine Metabolism	1
+489	R473	1	Polyamine Metabolism	1
+490	R474	1	Creatine Metabolism	1
+491	R475	1	Creatine Metabolism	1
+492	R476	1	Creatine Metabolism	1
+493	R477	1	Creatine Metabolism	1
+494	R478	1	Creatine Metabolism	1
+495	R479	1	Creatine Metabolism	1
+496	R480	1	Heme Metabolism	1
+497	R481	1	Heme Metabolism	1
+498	R482	1	Heme Metabolism	1
+499	R483	1	Heme Metabolism	1
+500	R484	1	Heme Metabolism	1
+501	R485	1	Heme Metabolism	1
+502	R486	1	Heme Metabolism	1
+503	R487	1	Heme Metabolism	1
+504	R488	1	Heme Metabolism	1
+505	R489	1	Heme Metabolism	1
+506	R490	1	Heme Metabolism	1
+507	R491	1	Heme Metabolism	1
+508	R492	1	Heme Metabolism	1
+509	R493	1	Heme Metabolism	1
+510	R494	1	Heme Metabolism	1
+511	R495	1	Heme Metabolism	1
+512	R496	1	Heme Metabolism	1
+513	R497	1	Heme Metabolism	1
+514	R498	1	Heme Metabolism	1
+515	R499	1	Heme Metabolism	1
+516	R500	1	Purine Nucleoside Metabolism	1
+517	R501	1	Purine Nucleoside Metabolism	1
+518	R502	1	Purine Nucleoside Metabolism	1
+519	R503	1	Purine Nucleoside Metabolism	1
+520	R504	1	Purine Nucleoside Metabolism	1
+521	R505	1	Purine Nucleoside Metabolism	1
+522	R506	1	Purine Nucleoside Metabolism	1
+523	R507	1	Purine Nucleoside Metabolism	1
+524	R508	1	Purine Nucleoside Metabolism	1
+525	R509	1	Purine Nucleoside Metabolism	1
+526	R510	1	Purine Nucleoside Metabolism	1
+527	R511	1	Purine Nucleoside Metabolism	1
+528	R512	1	Purine Nucleoside Metabolism	1
+529	R513	1	Purine Nucleoside Metabolism	1
+530	R514	1	Purine Nucleoside Metabolism	1
+531	R515	1	Purine Nucleoside Metabolism	1
+532	R516	1	Purine Nucleoside Metabolism	1
+533	R517	1	Purine Nucleoside Metabolism	1
+534	R518	1	Pirimidine Nucleoside Metabolism	1
+535	R519	1	Pirimidine Nucleoside Metabolism	1
+536	R520	1	Pirimidine Nucleoside Metabolism	1
+537	R521	1	Pirimidine Nucleoside Metabolism	1
+538	R522	1	Pirimidine Nucleoside Metabolism	1
+539	R523	1	Pirimidine Nucleoside Metabolism	1
+540	R524	1	Pirimidine Nucleoside Metabolism	1
+541	R525	1	Pirimidine Nucleoside Metabolism	1
+542	R526	1	Pirimidine Nucleoside Metabolism	1
+543	R527	1	Pirimidine Nucleoside Metabolism	1
+544	R528	1	Pirimidine Nucleoside Metabolism	1
+545	R531	1	Pirimidine Nucleoside Metabolism	1
+546	R532	1	Pirimidine Nucleoside Metabolism	1
+547	R533	1	Pirimidine Nucleoside Metabolism	1
+548	R534	1	Pirimidine Nucleoside Metabolism	1
+549	R535	1	Pirimidine Nucleoside Metabolism	1
+550	R539	1	Purine Nucleoside Metabolism	1
+551	R540	1	Purine Nucleoside Metabolism	1
+552	R541	1	Purine Nucleoside Metabolism	1
+553	R543	1	Purine Nucleoside Metabolism	1
+554	R544	1	Purine Nucleoside Metabolism	1
+555	R545	1	Purine Nucleoside Metabolism	1
+556	R546	1	Purine Nucleoside Metabolism	1
+557	R547	1	Purine Nucleoside Metabolism	1
+558	R548	1	Purine Nucleoside Metabolism	1
+559	R549	1	Purine Nucleoside Metabolism	1
+560	R550	1	Purine Nucleoside Metabolism	1
+561	R551	1	Purine Nucleoside Metabolism	1
+562	R552	1	Purine Nucleoside Metabolism	1
+563	R553	1	Purine Nucleoside Metabolism	1
+564	R554	1	Pirimidine Nucleoside Metabolism	1
+565	R555	1	Pirimidine Nucleoside Metabolism	1
+566	R556	1	Pirimidine Nucleoside Metabolism	1
+567	R557	1	Pirimidine Nucleoside Metabolism	1
+568	R558	1	Pirimidine Nucleoside Metabolism	1
+569	R559	1	Pirimidine Nucleoside Metabolism	1
+570	R560	1	Pirimidine Nucleoside Metabolism	1
+571	R561	1	Pirimidine Nucleoside Metabolism	1
+572	R562	1	Pirimidine Nucleoside Metabolism	1
+573	R563	1	Pirimidine Nucleoside Metabolism	1
+574	R564	1	Pirimidine Nucleoside Metabolism	1
+575	R566	1	Pirimidine Nucleoside Metabolism	1
+576	R568	1	Pirimidine Nucleoside Metabolism	1
+577	R569	1	Pirimidine Nucleoside Metabolism	1
+578	R570	1	Pirimidine Nucleoside Metabolism	1
+579	R571	1	Pirimidine Nucleoside Metabolism	1
+580	R572	1	Exchange	1
+581	R573	1	Exchange	1
+582	R574	1	Exchange	1
+583	R577	1	Exchange	1
+584	R578	1	Exchange	1
+585	R579	1	Exchange	1
+586	R580	1	Exchange	1
+587	R581	1	Exchange	1
+588	R582	1	Exchange	1
+589	R583	1	Exchange	1
+590	R584	1	Exchange	1
+591	R586	1	Exchange	1
+592	R589	1	Exchange	1
+593	R590	1	Exchange	1
+594	R591	1	Exchange	1
+595	R593	1	Exchange	1
+596	R594	1	Exchange	1
+597	R595	1	Exchange	1
+598	R596	1	Exchange	1
+599	R597	1	Exchange	1
+600	R598	1	Exchange	1
+601	R599	1	Exchange	1
+602	R600	1	Exchange	1
+603	R601	1	Exchange	1
+604	R602	1	Exchange	1
+605	R603	1	Exchange	1
+606	R604	1	Exchange	1
+607	R605	1	Exchange	1
+608	R606	1	Exchange	1
+609	R607	1	Exchange	1
+610	R608	1	Exchange	1
+611	R609	1	Exchange	1
+612	R610	1	Exchange	1
+613	R611	1	Exchange	1
+614	R612	1	Exchange	1
+615	R613	1	Exchange	1
+616	R614	1	Exchange	1
+617	R615	1	Exchange	1
+618	R616	1	Exchange	1
+619	R617	1	Exchange	1
+620	R619	1	Exchange	1
+621	R620	1	Exchange	1
+622	R621	1	Exchange	1
+623	R623	1	Exchange	1
+624	R624	1	Exchange	1
+625	R625	1	Exchange	1
+626	R626	1	Exchange	1
+627	R627	1	Exchange	1
+628	R628	1	Exchange	1
+629	R629	1	Exchange	1
+630	R630	1	Exchange	1

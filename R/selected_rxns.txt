@@ -1,0 +1,66 @@
+Reaction ID	Formula	Cell Type	Healthy	Bipolar Disorder
+R30	Isocitrate + NAD -> alpha_ketoglutarate + NADH + CO2	Astrocyte	0.214429693	0
+R33	alpha_ketoglutarate + NAD -> Succinyl_CoA + NADH + CO2	Astrocyte	0.092607109	0
+R422	2 ReducedGlutathione + H2O2 -> OxidizedGlutathione	Astrocyte	0.0192	0
+R423	OxidizedGlutathione + NADPH -> 2 ReducedGlutathione + NADP	Astrocyte	0.0192	0
+R461	Putrescine + Acetyl_CoA -> Ncetylputrescine	Astrocyte	0.0051	0
+R462	Ncetylputrescine + O2 -> Acetamidobutanal + NH3 + H2O2	Astrocyte	0.0051	0
+R463	Acetamidobutanal + NAD -> Acetamidobutanoate + NADH	Astrocyte	0.0051	0
+R464	Acetamidobutanoate -> GABA	Astrocyte	0.0051	0
+R145	Isoleucine + alpha_ketoglutarate <-> KMV + Glutamate	Astrocyte	0.106189595	0.004
+R37	Malate + NADM -> Oxoloacetate + NADHM	Astrocyte	0.098407109	0.0058
+R35	Succinate + FADM <-> Fumarate + FADH2M	Astrocyte	0.098407109	0.0058
+R36	Fumarate <-> Malate	Astrocyte	0.098407109	0.0058
+R31	Isocitrate + NADP -> alpha_ketoglutarate + NADPH + CO2	Astrocyte	0	0.004524573
+R32	Isocitrate + NADPM -> alpha_ketoglutarate + NADPHM + CO2	Astrocyte	0	0.26214218
+R115	Serine -> Pyruvate + NH3	Astrocyte	0	0.003785218
+R119	Glycine + NADM + tetrahydrofolate -> CO2 + NH3 + NADHM	Astrocyte	0	0.00376082
+R120	Glycine -> tetrahydrofolate + Serine	Astrocyte	0	0.00376082
+R179	S_1_pyrroline_5_carboxylate + NADPH -> proline + NADP	Astrocyte	0	0.023724573
+R180	proline + FADM -> S_1_pyrroline_5_carboxylate + FADH2M	Astrocyte	0	0.023724573
+R447	Arginine -> Ornithine + Urea	Astrocyte	0	0.002
+R448	Ornithine + alpha_ketoglutarate <-> Glutamate + Glutamate_semialdehyde	Astrocyte	0	0.0051
+R449	Glutamate_semialdehyde <-> S_1_pyrroline_5_carboxylate	Astrocyte	0	0.0051
+R450	S_1_pyrroline_5_carboxylate + NAD -> Glutamate + NADH	Astrocyte	0	0.0051
+R627	Urea -> 	Astrocyte	0	0.002
+R34	Succinyl_CoA + ADP <-> Succinate + ATP	Astrocyte	0.083907109	-0.0087
+R105	Aspartate + alpha_ketoglutarate <-> Oxoloacetate + Glutamate	Astrocyte	0.108922584	0.253766754
+R94	Glutamate + NH3 + ATP -> Glutamine + ADP	Astrocyte	0.121822584	0.3153162
+R111	Alanine + alpha_ketoglutarate <-> Pyruvate + Glutamate	Astrocyte	0.00283299	0.0584381
+R132	Valine + alpha_ketoglutarate <-> KIV + Glutamate	Astrocyte	0.0018	0.2418781
+R73	Isocitrate + NADM -> alpha_ketoglutarate + NADHM + CO2	Neuron	0.259080564	0
+R76	alpha_ketoglutarate + NADM -> Succinyl_CoA + NADHM + CO2	Neuron	0.439722928	0
+R77	Succinyl_CoA + ADP <-> Succinate + ATP	Neuron	0.439722928	0
+R152	KMV + Glutamate <-> Isoleucine + alpha_ketoglutarate	Neuron	0.102189595	0
+R170	Dopamine + O2 -> Norepinephrine	Neuron	0.0173	0
+R433	OxidizedGlutathione + NADPH -> 2 ReducedGlutathione + NADP	Neuron	0.03991978	0
+R75	Isocitrate + NADP -> alpha_ketoglutarate + NADPH + CO2	Neuron	0.07681978	0.0369
+R74	Isocitrate + NADPM -> alpha_ketoglutarate + NADPHM + CO2	Neuron	0	0.243395233
+R97	Glutamate -> GABA + CO2	Neuron	0	0.534061987
+R143	KIV + Glutamate <-> Valine + alpha_ketoglutarate	Neuron	0	0.2400781
+R191	S_adenosyl_L_methionine -> S_adenosyl_L_homocysteine	Neuron	0	0.006190812
+R434	OxidizedGlutathione + NADPHM -> 2 ReducedGlutathione + NADPM	Neuron	0	0.111506441
+R103	Oxoloacetate + Glutamate <-> Aspartate + alpha_ketoglutarate	Neuron	0.137322584	0.282166754
+R190	ATP + methionine -> S_adenosyl_L_methionine	Neuron	0.0042	0.010390811
+R96	Glutamine -> Glutamate + NH3	Neuron	0.112822584	0.3063162
+R432	2 ReducedGlutathione + H2O2 -> OxidizedGlutathione	Neuron	0.03991978	0.111506441
+R431	O2 -> H2O2	Neuron	0.03821978	0.109806441
+R192	S_adenosyl_L_homocysteine -> L_homocysteine + adenosine	Neuron	0.0025	0.008690811
+R195	L_homocysteine -> methionine + tetrahydrofolate	Neuron	0.0025	0.008690811
+R109	Pyruvate + Glutamate <-> alpha_ketoglutarate + Alanine	Neuron	0.00283299	0.0584381
+R102	SuccinateSAL + NADM -> NADHM + Succinate	Neuron	0.0051	0.534061987
+R101	GABA + alpha_ketoglutarate -> Glutamate + SuccinateSAL	Neuron	0.0051	0.534061987
+R579	Norepinephrine_N --> 	Secretion	0.0173	0
+R578	Dopamine_N --> 	Secretion	0	0.0173
+R151	KMV_A --> KMV_N	Transfer	0.102189595	0
+R153	Isoleucine_N --> Isoleucine_A	Transfer	0.102189595	0
+R451	Ornithine --> Ornithine_N	Transfer	0.0031	0
+R452	Arginine_A --> Arginine_N	Transfer	0.002	0
+R460	Putrescine_N --> Putrescine_A	Transfer	0.0051	0
+R91	Glutamate_N + ATP_A --> Glutamate_A + ADP_A	Transfer	0	0.043549446
+R142	KIV_A --> KIV_N	Transfer	0	0.2400781
+R144	Valine_N --> Valine_A	Transfer	0	0.2400781
+R445	Ornithine --> Ornithine_A	Transfer	0	0.0031
+R104	Aspartate_N <==> Aspartate_A	Transfer	0.108922584	0.253766754
+R95	Glutamine_A --> Glutamine_N	Transfer	0.112822584	0.3063162
+R110	Alanine_N <==> Alanine_A	Transfer	0.00283299	0.0584381

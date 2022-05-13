@@ -1,0 +1,130 @@
+Reaction	Adj.P-Values	Pathway	Formula
+R8	0	Glycolysis	m_3_phosphoglycerate_A <==> m_2_phosphoglycerate_A
+R9	0	Glycolysis	m_2_phosphoglycerate_A <==> m_Phosphoenol_pyruvate_A
+R13	0	Glycolysis	m_Pyruvate_A + m_NAD_AM --> m_Acetyl_CoA_A + m_CO2_A + m_NADH_AM
+R26	0	TCA Cycle	m_Citrate_A <==> m_Cis_aconitate_A
+R27	0	TCA Cycle	m_Cis_aconitate_A <==> m_Isocitrate_A
+R30	0	TCA Cycle	m_Isocitrate_A + m_NAD_AM --> m_alpha_ketoglutarate_A + m_NADH_AM + m_CO2_A
+R31	0	TCA Cycle	m_Isocitrate_A + m_NADP_A --> m_alpha_ketoglutarate_A + m_NADPH_A + m_CO2_A
+R32	0	TCA Cycle	m_Isocitrate_A + m_NADP_AM --> m_alpha_ketoglutarate_A + m_NADPH_AM + m_CO2_A
+R33	0	TCA Cycle	m_alpha_ketoglutarate_A + m_NAD_AM --> m_Succinyl_CoA_A + m_NADH_AM + m_CO2_A
+R34	0	TCA Cycle	m_Succinyl_CoA_A + m_ADP_A <==> m_Succinate_A + m_ATP_A
+R35	0	TCA Cycle	m_Succinate_A + m_FAD_AM <==> m_Fumarate_A + m_FADH2_AM
+R36	0	TCA Cycle	m_Fumarate_A <==> m_Malate_A
+R37	0	TCA Cycle	m_Malate_A + m_NAD_AM --> m_Oxoloacetate_A + m_NADH_AM
+R41	0	Oxidative Phosphorylation and ATPase	m_NADH_AM + m_Ubiquinone_A --> m_NAD_AM + m_Ubiquinol_A + 4 m_Hc_A
+R42	0	Oxidative Phosphorylation and ATPase	m_Ubiquinol_A + m_CytCox_A --> m_Ubiquinone_A + m_CytCred_A + 4 m_Hc_A
+R43	0	Oxidative Phosphorylation and ATPase	m_CytCred_A + 0.5 m_O2_A --> m_CytCox_A + 2 m_Hc_A
+R44	0	Oxidative Phosphorylation and ATPase	m_FADH2_AM + m_Ubiquinone_A --> m_FAD_AM + m_Ubiquinol_A
+R45	0	Oxidative Phosphorylation and ATPase	m_ADP_A + 4 m_Hc_A --> m_ATP_A
+R57	0	Glycolysis	m_Pyruvate_N + m_NAD_NM --> m_Acetyl_CoA_N + m_CO2_N + m_NADH_NM
+R70	0	TCA Cycle	m_Citrate_N <==> m_Cis_aconitate_N
+R71	0	TCA Cycle	m_Cis_aconitate_N <==> m_Isocitrate_N
+R73	0	TCA Cycle	m_Isocitrate_N + m_NAD_NM --> m_alpha_ketoglutarate_N + m_NADH_NM + m_CO2_N
+R74	0	TCA Cycle	m_Isocitrate_N + m_NADP_NM --> m_alpha_ketoglutarate_N + m_NADPH_NM + m_CO2_N
+R75	0	TCA Cycle	m_Isocitrate_N + m_NADP_N --> m_alpha_ketoglutarate_N + m_NADPH_N + m_CO2_N
+R76	0	TCA Cycle	m_alpha_ketoglutarate_N + m_NAD_NM --> m_Succinyl_CoA_N + m_NADH_NM + m_CO2_N
+R77	0	TCA Cycle	m_Succinyl_CoA_N + m_ADP_N <==> m_Succinate_N + m_ATP_N
+R78	0	TCA Cycle	m_Succinate_N + m_FAD_NM <==> m_Fumarate_N + m_FADH2_NM
+R79	0	TCA Cycle	m_Fumarate_N <==> m_Malate_N
+R80	0	TCA Cycle	m_Malate_N + m_NAD_NM --> m_Oxoloacetate_N + m_NADH_NM
+R84	0	Oxidative Phosphorylation and ATPase	m_NADH_NM + m_Ubiquinone_N --> m_NAD_NM + m_Ubiquinol_N + 4 m_Hc_N
+R87	0	Oxidative Phosphorylation and ATPase	m_FADH2_NM + m_Ubiquinone_N --> m_FAD_NM + m_Ubiquinol_N
+R88	0	Oxidative Phosphorylation and ATPase	m_ADP_N + 4 m_Hc_N --> m_ATP_N
+R91	0	Glutamate - Glutamine Cycle	m_Glutamate_N + m_ATP_A --> m_Glutamate_A + m_ADP_A
+R94	0	Glutamate - Glutamine Cycle	m_Glutamate_A + m_NH3_A + m_ATP_A --> m_Glutamine_A + m_ADP_A
+R95	0	Glutamate - Glutamine Cycle	m_Glutamine_A --> m_Glutamine_N
+R96	0	Glutamate - Glutamine Cycle	m_Glutamine_N --> m_Glutamate_N + m_NH3_N
+R97	0	GABA Cycle	m_Glutamate_N --> m_GABA_N + m_CO2_N
+R98	0	GABA Cycle	m_GABA_N <==> m_GABA_A
+R101	0	GABA Cycle	m_GABA_N + m_alpha_ketoglutarate_N --> m_Glutamate_N + m_SuccinateSAL_N
+R102	0	GABA Cycle	m_SuccinateSAL_N + m_NAD_NM --> m_NADH_NM + m_Succinate_N
+R103	0	Aspartate Metabolism	m_Oxoloacetate_N + m_Glutamate_N <==> m_Aspartate_N + m_alpha_ketoglutarate_N
+R104	0	Aspartate Metabolism	m_Aspartate_N <==> m_Aspartate_A
+R105	0	Aspartate Metabolism	m_Aspartate_A + m_alpha_ketoglutarate_A <==> m_Oxoloacetate_A + m_Glutamate_A
+R109	0	Alanine Metabolism	m_Pyruvate_N + m_Glutamate_N <==> m_alpha_ketoglutarate_N + m_Alanine_N
+R110	0	Alanine Metabolism	m_Alanine_N <==> m_Alanine_A
+R111	0	Alanine Metabolism	m_Alanine_A + m_alpha_ketoglutarate_A <==> m_Pyruvate_A + m_Glutamate_A
+R112	0	Glycine-Serine Metabolism	m_3_phosphoglycerate_A + m_NAD_A <==> m_3_phosphohydroxypyruvate_A + m_NADH_A
+R113	0	Glycine-Serine Metabolism	m_3_phospho_serine_A + m_alpha_ketoglutarate_A <==> m_3_phosphohydroxypyruvate_A + m_Glutamate_A
+R114	0	Glycine-Serine Metabolism	m_3_phospho_serine_A --> m_Serine_A
+R115	0	Glycine-Serine Metabolism	m_Serine_A --> m_Pyruvate_A + m_NH3_A
+R116	0	Glycine-Serine Metabolism	m_Serine_A --> m_Serine_N
+R117	0	Glycine-Serine Metabolism	m_Serine_N + m_tetrahydrofolate_N --> m_Glycine_N
+R118	0	Glycine-Serine Metabolism	m_Glycine_N --> m_Glycine_A
+R119	0	Glycine-Serine Metabolism	m_Glycine_A + m_NAD_AM + m_tetrahydrofolate_A --> m_CO2_A + m_NH3_A + m_NADH_AM
+R120	0	Glycine-Serine Metabolism	m_Glycine_A --> m_tetrahydrofolate_A + m_Serine_A
+R132	0	Valine Metabolism	m_Valine_A + m_alpha_ketoglutarate_A <==> m_KIV_A + m_Glutamate_A
+R142	0	Valine Metabolism	m_KIV_A --> m_KIV_N
+R143	0	Valine Metabolism	m_KIV_N + m_Glutamate_N <==> m_Valine_N + m_alpha_ketoglutarate_N
+R144	0	Valine Metabolism	m_Valine_N --> m_Valine_A
+R145	0	Isoleucine Metabolism	m_Isoleucine_A + m_alpha_ketoglutarate_A <==> m_KMV_A + m_Glutamate_A
+R151	0	Isoleucine Metabolism	m_KMV_A --> m_KMV_N
+R152	0	Isoleucine Metabolism	m_KMV_N + m_Glutamate_N <==> m_Isoleucine_N + m_alpha_ketoglutarate_N
+R153	0	Isoleucine Metabolism	m_Isoleucine_N --> m_Isoleucine_A
+R170	0	Phenylalanine-Tyrosine Metabolism	m_Dopamine_N + m_O2_N --> m_Norepinephrine_N
+R179	0	Proline metabolism	m_S_1_pyrroline_5_carboxylate_A + m_NADPH_A --> m_proline_A + m_NADP_A
+R180	0	Proline metabolism	m_proline_A + m_FAD_AM --> m_S_1_pyrroline_5_carboxylate_A + m_FADH2_AM
+R190	0	Methionine Metabolism	m_ATP_N + m_methionine_N --> m_S_adenosyl_L_methionine_N
+R191	0	Methionine Metabolism	m_S_adenosyl_L_methionine_N --> m_S_adenosyl_L_homocysteine_N
+R192	0	Methionine Metabolism	m_S_adenosyl_L_homocysteine_N --> m_L_homocysteine_N + m_adenosine_N
+R195	0	Methionine Metabolism	m_L_homocysteine_N --> m_methionine_N + m_tetrahydrofolate_N
+R421	0	Reactive Oxygen Species Pathway	m_O2_A --> m_H2O2_A
+R422	0	Reactive Oxygen Species Pathway	2 m_ReducedGlutathione_A + m_H2O2_A --> m_OxidizedGlutathione_A
+R423	0	Reactive Oxygen Species Pathway	m_OxidizedGlutathione_A + m_NADPH_A --> 2 m_ReducedGlutathione_A + m_NADP_A
+R425	0	Reactive Oxygen Species Pathway	m_H2O2_A --> m_O2_A
+R426	0	Reactive Oxygen Species Pathway	m_ReducedGlutathione_A + m_Glutamine_A --> m_Glutamate_A + m_NH3_A + m_CysteinylGlycine_A
+R427	0	Reactive Oxygen Species Pathway	m_CysteinylGlycine_A --> m_CysteinylGlycine_N
+R428	0	Reactive Oxygen Species Pathway	m_CysteinylGlycine_N --> m_Cysteine_N + m_Glycine_N
+R429	0	Reactive Oxygen Species Pathway	m_Cysteine_N + m_Glutamate_N + m_ATP_N --> m_L_gamma_glutamylcysteine_N + m_ADP_N
+R430	0	Reactive Oxygen Species Pathway	m_L_gamma_glutamylcysteine_N + m_Glycine_N + m_ATP_N --> m_ReducedGlutathione_N + m_ADP_N
+R431	0	Reactive Oxygen Species Pathway	m_O2_N --> m_H2O2_N
+R432	0	Reactive Oxygen Species Pathway	2 m_ReducedGlutathione_N + m_H2O2_N --> m_OxidizedGlutathione_N
+R433	0	Reactive Oxygen Species Pathway	m_OxidizedGlutathione_N + m_NADPH_N --> 2 m_ReducedGlutathione_N + m_NADP_N
+R434	0	Reactive Oxygen Species Pathway	m_OxidizedGlutathione_N + m_NADPH_NM --> 2 m_ReducedGlutathione_N + m_NADP_NM
+R445	0	Arginine Metabolism	m_Ornithine --> m_Ornithine_A
+R447	0	Arginine Metabolism	m_Arginine_A --> m_Ornithine_A + m_Urea_A
+R448	0	Arginine Metabolism	m_Ornithine_A + m_alpha_ketoglutarate_A <==> m_Glutamate_A + m_Glutamate_semialdehyde_A
+R449	0	Arginine Metabolism	m_Glutamate_semialdehyde_A <==> m_S_1_pyrroline_5_carboxylate_A
+R450	0	Arginine Metabolism	m_S_1_pyrroline_5_carboxylate_A + m_NAD_A --> m_Glutamate_A + m_NADH_A
+R451	0	Arginine Metabolism	m_Ornithine --> m_Ornithine_N
+R452	0	Arginine Metabolism	m_Arginine_A --> m_Arginine_N
+R456	0	Arginine Metabolism	m_Aspartate_N + m_Citrulline_N + m_ATP_N --> m_L_Arginino_Succinate_N + m_AMP_N
+R457	0	Arginine Metabolism	m_L_Arginino_Succinate_N --> m_Arginine_N + m_Fumarate_N
+R460	0	Arginine Metabolism	m_Putrescine_N --> m_Putrescine_A
+R461	0	Polyamine Metabolism	m_Putrescine_A + m_Acetyl_CoA_A --> m_N_acetylputrescine_A
+R462	0	Polyamine Metabolism	m_N_acetylputrescine_A + m_O2_A --> m_Acetamidobutanal_A + m_NH3_A + m_H2O2_A
+R463	0	Polyamine Metabolism	m_Acetamidobutanal_A + m_NAD_A --> m_Acetamidobutanoate_A + m_NADH_A
+R464	0	Polyamine Metabolism	m_Acetamidobutanoate_A --> m_GABA_A
+R578	0	Exchange	m_Dopamine_N --> 
+R579	0	Exchange	m_Norepinephrine_N --> 
+R592	0	Exchange	m_ReducedGlutathione_N --> 
+R626	0	Exchange	m_Urea_N --> 
+R627	0	Exchange	m_Urea_A --> 
+R89	5,04E-286	Glutamate - Glutamine Cycle	m_alpha_ketoglutarate_N + m_NH3_N + m_NADPH_NM <==> m_Glutamate_N + m_NADP_NM
+R83	7,71E-286	TCA Cycle	m_NADP_NM + m_NADH_NM --> m_NADPH_NM + m_NAD_NM
+R93	9,34E-286	Glutamate - Glutamine Cycle	m_alpha_ketoglutarate_N + m_NH3_N + m_NADH_NM <==> m_Glutamate_N + m_NAD_NM
+R85	9,80E-276	Oxidative Phosphorylation and ATPase	m_Ubiquinol_N + m_CytCox_N --> m_Ubiquinone_N + m_CytCred_N + 4 m_Hc_N
+R86	9,80E-276	Oxidative Phosphorylation and ATPase	m_CytCred_N + 0.5 m_O2_N --> m_CytCox_N + 2 m_Hc_N
+R576	1,91E-261	Exchange	m_CO2_N --> 
+R575	2,50E-247	Exchange	m_CO2_A --> 
+R11	1,40E-160	Glycolysis	m_Pyruvate_A + m_NADH_A <==> m_Lactate_A + m_NAD_A
+R573	1,40E-160	Exchange	m_Lactate_A --> 
+R345	1,34E-65	Glycerol-3-phosphate Shuttle	m_Dihydroxyacetone_phosphate_A + m_NADH_A --> m_Glycerol_3_phosphate_A + m_NAD_A
+R346	1,34E-65	Glycerol-3-phosphate Shuttle	m_Glycerol_3_phosphate_A + m_FAD_AM --> m_Dihydroxyacetone_phosphate_A + m_FADH2_AM
+R536	3,46E-49	Purine Nucleoside Metabolism	m_adenosine --> m_adenosine_N
+R622	3,46E-49	Exchange	 --> m_adenosine
+R529	0,000208451	Pirimidine Nucleoside Metabolism	m_CMP_A + m_ATP_A --> m_CDP_A + m_ADP_A
+R531	0,000208451	Pirimidine Nucleoside Metabolism	m_CDP_A + m_ATP_A --> m_CTP_A + m_ADP_A
+R541	0,000303634	Purine Nucleoside Metabolism	m_AMP_N --> m_adenosine_N
+R537	0,000305484	Purine Nucleoside Metabolism	m_adenosine_N + m_ATP_N --> m_AMP_N + m_ADP_N
+R532	0,001454104	Pirimidine Nucleoside Metabolism	m_CTP_A --> m_CMP_A
+R616	0,001564821	Exchange	 --> m_tetrahydrofolate_N
+R565	0,002724449	Pirimidine Nucleoside Metabolism	m_CMP_N + m_ATP_N --> m_CDP_N + m_ADP_N
+R567	0,002724449	Pirimidine Nucleoside Metabolism	m_CDP_N + m_ATP_N --> m_CTP_N + m_ADP_N
+R542	0,0152772	Purine Nucleoside Metabolism	m_ATP_N --> m_ADP_N
+R453	0,038654269	Arginine Metabolism	m_Arginine_N <==> m_Agmatine_N + m_CO2_N
+R454	0,038654269	Arginine Metabolism	m_Agmatine_N <==> m_Putrescine_N + m_Urea_N
+R458	0,038654269	Arginine Metabolism	m_Arginine_N --> m_Ornithine_N + m_Urea_N
+R459	0,038654269	Arginine Metabolism	m_Ornithine_N <==> m_CO2_N + m_Putrescine_N
+R568	0,043261702	Pirimidine Nucleoside Metabolism	m_CTP_N --> m_CMP_N
